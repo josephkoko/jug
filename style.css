@@ -334,56 +334,6 @@ nav {
    }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* MEDIA QUERIES */
 
     /* TABLET SIZED DEVICES */
@@ -443,23 +393,7 @@ nav {
        .u-login {
         display: inline;
        }
-
-       /* INTRO SECTION */
-   .intro{
-    flex-direction: column-reverse;
-   }
-
-   .intro-image {
-    padding-bottom: 4rem;
-   }
-
-   .intro-text {
-    display: block;
-    width: 100%;
-    text-align: center;
-    padding: 4rem 0;
-   }
-}
-
+    }
+    
 
 
